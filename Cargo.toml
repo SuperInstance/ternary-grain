@@ -1,0 +1,11 @@
+[package]
+name = "ternary-grain"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+name = "ternary_grain"
+
+[dependencies]
+rand = "0.8"
